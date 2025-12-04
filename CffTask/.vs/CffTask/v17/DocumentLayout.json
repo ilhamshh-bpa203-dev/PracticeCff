@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\cfftask\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\cfftask\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\cfftask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\Courier.cs",
+              "RelativeDocumentMoniker": "Courier.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\Courier.cs",
+              "RelativeToolTip": "Courier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:50:56.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:48:04.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T14:44:14.962Z",
               "EditorCaption": ""
