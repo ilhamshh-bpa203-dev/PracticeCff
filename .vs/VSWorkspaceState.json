@@ -3,6 +3,10 @@
     "",
     "\\CffTask"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\CffTask\\CffTask.sln",
+=======
+  "SelectedNode": "\\CffTask\\Program.cs",
+>>>>>>> fa7c109d3ecc11044b2bbc2169b48ba1740c0037
   "PreviewInSolutionExplorer": false
 }
