@@ -12,6 +12,7 @@ namespace CffTask
         public string Name;
         public bool IsAvailable = false;
 
+
         public Courier(string name, bool isavailable)
         {
             Id++;

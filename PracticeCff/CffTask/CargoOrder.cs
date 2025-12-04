@@ -20,6 +20,7 @@ namespace CffTask
 
             public DateTime CreatedAt { get; set; } = DateTime.Now;
 
+
             static CargoOrder()
             {
                 Id = 0;

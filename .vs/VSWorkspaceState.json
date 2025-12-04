@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CffTask"
+    "\\PracticeCff",
+    "\\PracticeCff\\CffTask"
   ],
-  "SelectedNode": "\\CffTask\\Program.cs",
+  "SelectedNode": "\\PracticeCff\\CffTask\\Courier.cs",
   "PreviewInSolutionExplorer": false
 }
