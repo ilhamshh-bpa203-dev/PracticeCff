@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\PracticeCff\\CffTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\cfftask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\dell\\desktop\\practicecff\\cfftask\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\dell\\desktop\\practicecff\\cfftask\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\dell\\desktop\\practicecff\\cfftask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PracticeCff\\CffTask\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\PracticeCff\\CffTask\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:50:42.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CargoOrder.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PracticeCff\\CffTask\\Models\\CargoOrder.cs",
+              "RelativeDocumentMoniker": "Models\\CargoOrder.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\PracticeCff\\CffTask\\Models\\CargoOrder.cs",
+              "RelativeToolTip": "Models\\CargoOrder.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:47:29.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PracticeCff\\CffTask\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\CffTask\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\PracticeCff\\CffTask\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
