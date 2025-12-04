@@ -8,14 +8,21 @@ namespace CffTask
 {
     public class Courier
     {
-        private static int Id;
+        private static int _id;
+        public int Id { 
+            get { return _id; } 
+            set
+            {
+                _id = value;
+            }
+        }
         public string Name;
         public bool IsAvailable = false;
 
 
         public Courier(string name, bool isavailable)
         {
-            Id++;
+            _id++;
             Name = name;
             IsAvailable = isavailable;
 

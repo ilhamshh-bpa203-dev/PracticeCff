@@ -8,20 +8,29 @@ namespace CffTask
 {
     internal class CargoService:ICargoService
     {
+        
+
         public List<CargoOrder> CargoOrders = new List<CargoOrder>();
         public List<Courier> Couriers = new List<Courier>();
         public List<Customer> Customers = new List<Customer>();
 
-        public void AddCourier()
+
+        public void AddCourier(Courier courier)
         {
-
+            if(Couriers.Any(c => c.Id == courier.Id))
+            {
+               throw new Exception("Courier already exists");
+            }
+            else
+            {
+                Couriers.Add(courier);
+            }
         }
-
-
         public void AddCustomer()
         {
             throw new NotImplementedException();
         }
+
 
         public void CompleteOrder()
         {

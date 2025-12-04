@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\dell\\desktop\\practicecff\\practicecff\\cfftask\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\dell\\desktop\\practicecff\\practicecff\\cfftask\\cargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:cargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\dell\\desktop\\practicecff\\practicecff\\cfftask\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\dell\\desktop\\practicecff\\practicecff\\cfftask\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "OrderStatus.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\OrderStatus.cs",
-              "RelativeToolTip": "OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Title": "ICargoService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\ICargoService.cs",
+              "RelativeDocumentMoniker": "ICargoService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\ICargoService.cs",
+              "RelativeToolTip": "ICargoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T15:33:02.472Z",
+              "WhenOpened": "2025-12-04T16:23:02.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CargoOrder.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\CargoOrder.cs",
-              "RelativeDocumentMoniker": "CargoOrder.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\CargoOrder.cs",
-              "RelativeToolTip": "CargoOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Title": "CargoService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\CargoService.cs",
+              "RelativeDocumentMoniker": "CargoService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\CargoService.cs",
+              "RelativeToolTip": "CargoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T15:32:13Z",
+              "WhenOpened": "2025-12-04T16:22:57.288Z",
               "EditorCaption": ""
             }
           ]
