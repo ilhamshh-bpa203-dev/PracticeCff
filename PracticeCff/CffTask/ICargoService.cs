@@ -8,7 +8,7 @@ namespace CffTask
 {
     internal interface ICargoService
     {
-        void AddCustomer();
+        void AddCustomer(string name, string city);
         void AddCourier(Courier courier);
         void CreateOrder();
         void CompleteOrder();

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\practicecff\\cfftask\\cargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:cargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\practicecff\\cfftask\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\practicecff\\cfftask\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\practicecff\\cfftask\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\practicecff\\cfftask\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|c:\\users\\ilham\\desktop\\practicecff\\practicecff\\cfftask\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA636FF-B10C-41B5-8228-7E8B21A76AAB}|CffTask.csproj|solutionrelative:orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CargoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\CargoService.cs",
+              "RelativeDocumentMoniker": "CargoService.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\CargoService.cs",
+              "RelativeToolTip": "CargoService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:52:15.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:49:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\Courier.cs",
+              "RelativeDocumentMoniker": "Courier.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\Courier.cs",
+              "RelativeToolTip": "Courier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:49:05.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICargoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\ICargoService.cs",
+              "RelativeDocumentMoniker": "ICargoService.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\ICargoService.cs",
+              "RelativeToolTip": "ICargoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:49:00.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\OrderStatus.cs",
+              "RelativeToolTip": "OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:33:02.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CargoOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\CargoOrder.cs",
+              "RelativeDocumentMoniker": "CargoOrder.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\PracticeCff\\PracticeCff\\CffTask\\CargoOrder.cs",
+              "RelativeToolTip": "CargoOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:32:13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
