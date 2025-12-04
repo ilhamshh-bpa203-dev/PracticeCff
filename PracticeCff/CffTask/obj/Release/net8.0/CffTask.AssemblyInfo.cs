@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CffTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2ffc75f1ae28450bcc6a851dd6c5946f96ea1aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2949d6028de3c036b7211419efb4c16e8701441c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CffTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CffTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
