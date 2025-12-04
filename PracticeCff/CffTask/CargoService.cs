@@ -8,6 +8,9 @@ namespace CffTask
 {
     internal class CargoService:ICargoService
     {
+
+        Customer _customer;
+
         public List<CargoOrder> CargoOrders = new List<CargoOrder>();
         public List<Courier> Couriers = new List<Courier>();
         public List<Customer> Customers = new List<Customer>();
@@ -15,12 +18,16 @@ namespace CffTask
         public void AddCourier()
         {
 
+
         }
 
 
-        public void AddCustomer()
+        public void AddCustomer(string name, string city)
         {
-            throw new NotImplementedException();
+
+            _customer.Name = name;
+            _customer.City = city;
+            Customers.Add(_customer);
         }
 
         public void CompleteOrder()
@@ -32,5 +39,7 @@ namespace CffTask
         {
             throw new NotImplementedException();
         }
+
+      
     }
 }
